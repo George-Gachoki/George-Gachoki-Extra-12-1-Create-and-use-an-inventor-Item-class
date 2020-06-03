@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Item>
+        <ItemNo>3245649</ItemNo>
+        <Description>Agapanthus</Description>
+        <Price>7.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>3762592</ItemNo>
+        <Description>Limonium</Description>
+        <Price>6.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>9210584</ItemNo>
+        <Description>Snail pellets</Description>
+        <Price>12.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>4738459</ItemNo>
+        <Description>Japanese Red Maple</Description>
+        <Price>89.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>1234567</ItemNo>
+        <Description>GG Puyallup Lasagnia</Description>
+        <Price>27</Price>
+    </Item>
+    <Item>
+        <ItemNo>7654321</ItemNo>
+        <Description>Pierce Colleg Donut</Description>
+        <Price>44.8</Price>
+    </Item>
+    <Item>
+        <ItemNo>8765432</ItemNo>
+        <Description>Pierce College Cola Drink</Description>
+        <Price>9.99</Price>
+    </Item>
+</Items>
